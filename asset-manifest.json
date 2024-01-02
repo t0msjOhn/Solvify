@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Solvify/static/css/main.699f458a.css",
+    "main.js": "/Solvify/static/js/main.c5a943f5.js",
+    "static/media/user-icon.png": "/Solvify/static/media/user-icon.79487ebd1120a8a7b004.png",
+    "static/media/chatgptLogo.svg": "/Solvify/static/media/chatgptLogo.496558ea071637d128587cb98b0e1b1c.svg",
+    "static/media/rocket.svg": "/Solvify/static/media/rocket.3083828716c5d7716f71aa7e179555de.svg",
+    "static/media/send.svg": "/Solvify/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "static/media/bookmark.svg": "/Solvify/static/media/bookmark.c2178bf87e70a458757ba7290cea3ce7.svg",
+    "index.html": "/Solvify/index.html",
+    "static/media/home.svg": "/Solvify/static/media/home.54b8621214269a989c8b7627385bcd8a.svg",
+    "static/media/message.svg": "/Solvify/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
+    "main.699f458a.css.map": "/Solvify/static/css/main.699f458a.css.map",
+    "main.c5a943f5.js.map": "/Solvify/static/js/main.c5a943f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.699f458a.css",
+    "static/js/main.c5a943f5.js"
+  ]
+}
